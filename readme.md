@@ -10,6 +10,9 @@
 找到src目录下的java文件夹下的quick_interface下的QuickInterfaceApplication文件,点击运行即可
 
 然后打开浏览器 访问127.0.0.1:8080/back 即可得到响应
+
+
+
 ![img.png](img.png)
 ---
 ## 后续更新

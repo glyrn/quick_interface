@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class quickController {
 
-    @GetMapping("/stu")
+    @GetMapping("/back")
     public Student callBack() {
 
         Student student = new Student();
